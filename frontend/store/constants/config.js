@@ -1,0 +1,1 @@
+export const SERVER = "http://edu.ailab.vn:5013";
